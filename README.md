@@ -4,6 +4,7 @@ this a book list of computer science.
 1. Core Java v1 ANd v2.pdf
 2. java-concurrency in practice
 3. Effective Java (2017, Addison-Wesley)
+  If you are not familiar with English, you can follow this repo to read both in Chinese and English. [clxering/Effective-Java-3rd-edition-Chinese-English-bilingual](https://github.com/clxering/Effective-Java-3rd-edition-Chinese-English-bilingual).
 4. java-performance-the-definitive-guide
 5. Thinking_in_Java_4th_edition
 ## System
