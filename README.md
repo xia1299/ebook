@@ -22,4 +22,4 @@ this a book list of computer science.
 1. [Data_Engineering_Teams.pdf](http://content.bigdatainstitute.io/books/data_engineering_teams/Data_Engineering_Teams.pdf)
 2. [The_Ultimate_Guide_to_Switching_Careers_to_Big_Data.pdf](http://content.bigdatainstitute.io/books/switchingcareers/The_Ultimate_Guide_to_Switching_Careers_to_Big_Data.pdf)
 
-These two books are the opensource ebook by [Jesse Anderson](http://www.jesse-anderson.com/), who is a famous big data scientest. You would better to download these books from his home page.  You could download from this repo for your bad network.
+These two books are the opensource ebook by [Jesse Anderson](http://www.jesse-anderson.com/), who is a famous big data scientest. You would better to download these books from his home page. But you also could download from this repo for your bad network.
